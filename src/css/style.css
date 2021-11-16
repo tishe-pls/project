@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    font-style:inherit
+}
+
+.text1 {
+    font-style: italic;
+}
+
+.text2 {
+    font-style: italic;
+}
+
+.text3 {
+    font-style: italic;
+}
+
+.text4 {
+    font-style: italic;
+}
+
